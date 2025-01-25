@@ -1,0 +1,13 @@
+{
+	"geode": "4.2.1",
+	"version": "v1.0.0",
+	"gd": {
+		"android": "2.206",
+		"mac": "2.206",
+		"win": "2.206"
+	},
+	"id": "omgrod.geode_remover",
+	"name": "Remove Geode Button",
+	"developer": "OmgRod",
+	"description": "Removes the Geode button from the main menu."
+}
